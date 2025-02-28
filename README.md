@@ -1,6 +1,6 @@
 # 🍽️ Yemek Siparişi Yönetim Sistemi  
 
-## 📖 Genel Bakış    
+##  Genel Bakış    
 
 ![Veritabanı Şeması](images/tbl.png)  
 
